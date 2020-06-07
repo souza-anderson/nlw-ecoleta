@@ -2,13 +2,9 @@
     <img src="public/assets/logo.svg">
 </h1>
 
----
-
 <h1>
     gif
 </h1>
-
----
 
 ## 🐱‍💻 Sobre
 
