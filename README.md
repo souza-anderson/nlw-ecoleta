@@ -42,5 +42,6 @@ O projeto **Ecoleta** é uma aplicação desenvolvida em uma semana na primeira 
     # Executar o projeto
     $ npm start
 
-```# nlw-ecoleta
-# nlw-ecoleta
+```
+---
+Desenvolvido por Anderson Souza
