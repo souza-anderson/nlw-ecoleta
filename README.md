@@ -18,7 +18,7 @@ O projeto **Ecoleta** é uma aplicação desenvolvida em uma semana na primeira 
 
 ## ✔ Tecnologias utilizadas
 
-- Javascript
+- JavaScript
 - NodeJs
 - Nunjuncks
 - Express
