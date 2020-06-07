@@ -2,13 +2,13 @@
     <img src="public/assets/logo.svg">
 </h1>
 
+---
+
 <h1>
     gif
 </h1>
 
-<h3 align="center">
-    <a href="#">Acessar a demonstração<a>
-</h3>
+---
 
 ## 🐱‍💻 Sobre
 
