@@ -42,4 +42,4 @@ O projeto **Ecoleta** é uma aplicação desenvolvida em uma semana na primeira 
 
 ```
 ---
-Desenvolvido por Anderson Souza e sob a licença [MIT](/LICENSE)
+Desenvolvido por Anderson Souza e sob a licença [MIT](/LICENSE).
